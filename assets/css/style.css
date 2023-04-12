@@ -382,7 +382,7 @@
  */
 body {
   font-family: 'Open Sans', sans-serif;
-  color: rgba(35, 35, 35, 0.68);
+  color: rgba(158, 12, 12, 0.68);
   font-size: 16px;
   line-height: 24px;
   overflow-x: hidden !important;
@@ -405,7 +405,7 @@ a, .nav li a {
 }
 
 a:hover, .nav li a:hover {
-  color: #2a3855;
+  color: #73ab25;
   background-color: transparent;
 }
 
@@ -433,7 +433,7 @@ hr {
 /* Heading Style */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
-  color: #2a3855;
+  color: #1046b0;
   font-style: normal;
 }
 
@@ -596,7 +596,7 @@ h6 {
 }
 
 .section-heading {
-  color: #2a3855;
+  color: #a85510;
   display: block;
   margin: 0;
 }
@@ -605,7 +605,7 @@ h6 {
   font-size: 16px;
   line-height: 25px;
   font-weight: 400;
-  color: rgba(35, 35, 35, 0.8);
+  color: rgba(214, 23, 23, 0.8);
 }
 
 .section-header .tag-line {
@@ -646,7 +646,7 @@ h6 {
   position: relative;
   width: 50px;
   border-top-width: 4px;
-  border-top-color: #2a3855;
+  border-top-color: #bb8b19;
   margin: 0px;
 }
 
@@ -735,7 +735,7 @@ h6 {
   margin: 0;
   width: 100%;
   border-top: 1px solid;
-  border-color: rgba(0, 0, 0, 0.12);
+  border-color: rgba(196, 32, 32, 0.12);
 }
 
 /**
@@ -745,7 +745,7 @@ h6 {
  */
 .overlay-color {
   position: relative;
-  background-color: rgba(42, 56, 85, 0.75);
+  background-color: rgba(116, 144, 200, 0.75);
 }
 
 .bg-overlay, .bg-overlay-2, .bg-overlay-3, .bg-overlay-dark {
@@ -767,7 +767,7 @@ h6 {
 }
 
 .bg-overlay-2::before {
-  background-color: rgba(42, 56, 85, 0.45);
+  background-color: rgba(30, 84, 192, 0.45);
 }
 
 .bg-overlay-3::before {
@@ -775,7 +775,7 @@ h6 {
 }
 
 .bg-overlay-dark::before {
-  background-color: rgba(42, 56, 85, 0.85);
+  background-color: rgba(141, 13, 20, 0.85);
 }
 
 /**
@@ -825,7 +825,7 @@ h6 {
 }
 
 .btn:hover, .btn:focus {
-  color: #232323;
+  color: #e5dada;
 }
 
 .btn .fa {
