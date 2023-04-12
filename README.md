@@ -1,0 +1,1 @@
+# skuptoyot.com.pl
